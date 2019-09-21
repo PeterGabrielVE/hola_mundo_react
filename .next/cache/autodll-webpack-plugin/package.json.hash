@@ -1,0 +1,1 @@
+{"name":"hola_mundo_react","version":"1.0.0","description":"","main":"index.js","scripts":{"dev":"next"},"keywords":[],"author":"","license":"ISC","dependencies":{"next":"^9.0.5","react":"^16.9.0","react-dom":"^16.9.0"},"readme":"ERROR: No README data found!","_id":"hola_mundo_react@1.0.0"}
