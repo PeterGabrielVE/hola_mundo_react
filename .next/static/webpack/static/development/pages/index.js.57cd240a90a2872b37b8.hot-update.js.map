@@ -1,1 +1,0 @@
-{"version":3,"file":"static/webpack/static\\development\\pages\\index.js.57cd240a90a2872b37b8.hot-update.js","sources":["webpack:///./pages/index.js"],"sourcesContent":["function index(){\r\n\treturn (\r\n\t<h1>¡Hola mundo!</h1>\r\n\t)\r\n}\r\n\r\nexport default index"],"mappings":";;;;;;;;;;;;;;;;;AAAA;AACA;AACA;AAAA;AAAA;AAAA;AAAA;AAAA;AAEA;AACA;AACA;;;;A","sourceRoot":""}
