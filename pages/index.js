@@ -1,6 +1,7 @@
 import ClaseComponent from '../componentes/ClaseComponent'
 import Header from '../componentes/comunes/Header'
 import {matematicas,ciencias} from '../data/estudiantes'
+import BarraTitulo from '../componentes/comunes/BarraTitulo'
 
 /*function index(){
 	return (
@@ -39,6 +40,7 @@ export default ()=>(
 
 	<div>
     <Header/>
+    <BarraTitulo/>
   	<h1 style={{textAlign:"center"}}>¡Hola mundo! </h1>
   	<p>Este es mi sitio web creado desde React</p>
   	<MiComponente/>
